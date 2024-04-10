@@ -11,6 +11,7 @@ const App = () => {
       <CarSearch />
       <CarList />
       <CarValue />
+      <H1>kaushkkkkkkkkkk</H1>
     </div>
   );
 };
